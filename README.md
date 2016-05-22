@@ -1,5 +1,10 @@
 # How to develop
 
+## Prerequisites
+
+Install Node.js v5+
+Install hotdamn by `npm install -g hotdamn`
+
 ## Develop
 
 ```sh
