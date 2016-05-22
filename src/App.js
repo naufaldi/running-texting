@@ -37,7 +37,7 @@ export default class App extends React.Component {
     }
 
     render() {
-        const news = fakenews.items
+        const news = this.state.news
             .filter(item => item.title && item.author && item.url);
 
         return (
