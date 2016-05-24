@@ -1,7 +1,7 @@
 (function() {
 
     var iframe = document.createElement('iframe');
-    iframe.src = "http://localhost:8080/";
+    iframe.src = "http://kecoadev.azurewebsites.net/";
     iframe.style.position = 'fixed';
     iframe.style.bottom = 0;
     iframe.style.left = 0;
